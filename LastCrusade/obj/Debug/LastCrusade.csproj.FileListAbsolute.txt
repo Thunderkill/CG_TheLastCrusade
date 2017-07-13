@@ -1,0 +1,5 @@
+c:\users\thunder\documents\visual studio 2017\Projects\LastCrusade\LastCrusade\bin\Debug\LastCrusade.exe.config
+c:\users\thunder\documents\visual studio 2017\Projects\LastCrusade\LastCrusade\bin\Debug\LastCrusade.exe
+c:\users\thunder\documents\visual studio 2017\Projects\LastCrusade\LastCrusade\bin\Debug\LastCrusade.pdb
+c:\users\thunder\documents\visual studio 2017\Projects\LastCrusade\LastCrusade\obj\Debug\LastCrusade.exe
+c:\users\thunder\documents\visual studio 2017\Projects\LastCrusade\LastCrusade\obj\Debug\LastCrusade.pdb
